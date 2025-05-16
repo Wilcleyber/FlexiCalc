@@ -1,0 +1,24 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Arquivos de ambiente virtual
+venv/
+env/
+
+# Arquivos de log
+*.log
+
+# Configurações de IDEs
+.vscode/
+.idea/
+
+# Arquivos criados por PyInstaller (quando você gerar o executável)
+build/
+dist/
+*.spec
+
+# Arquivos temporários do sistema operacional
+.DS_Store
+Thumbs.db
